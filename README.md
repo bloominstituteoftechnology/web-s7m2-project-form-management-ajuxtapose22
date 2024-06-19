@@ -6,7 +6,7 @@ Welcome to Module 2 Project! In this project, you will practice working with for
 
 Your goal is to implement a form that takes input from the user and submits it.
 
-To successfully complete this project, you will need the following technical knowledge:
+Too successfully complete this project, you will need the following technical knowledge:
 
 1. **Basic React** to manipulate props and the JSX.
 2. **State hook** to track the values entered into the form.
